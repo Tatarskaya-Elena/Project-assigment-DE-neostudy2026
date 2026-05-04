@@ -15,5 +15,7 @@
 
 Ссылка на видео-демонстрацию: 
 https://disk.yandex.ru/i/_1LhTxd3iz_1XQ 
+
 https://disk.yandex.ru/i/-4hzJTPFoL0PvQ 
+
 (два варианта, т.к. очень плохо записывается звук и зависает картинка)
