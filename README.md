@@ -55,6 +55,10 @@ credit_amount_rub – credit_amount из предыдущего пункта, у
 
 https://drive.google.com/file/d/1ic5Z8loK5GR_RaOIVBHZ6T_yM4RTRHTG/view?usp=sharing
 
+Ссылка на текстовый файл:
+
+https://docs.google.com/document/d/1LCZXukdRWwAsYIvKKB1H5MZBFat3DPzhlq6Tr1riD9U/edit?usp=drive_link
+
 Задача 1.3
 
 После того как в предыдущих заданиях вы загрузили необходимую информацию и рассчитали витрины с оборотами и остатками, необходимо произвести расчет 101 формы за январь 2018 года. Структура и описание витрины по этой форме (DM.DM_F101_ROUND_F) находится в файле «Структура таблиц.docx». Вам необходимо ее создать.
