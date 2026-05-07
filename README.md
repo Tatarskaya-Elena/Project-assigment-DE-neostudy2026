@@ -114,3 +114,7 @@ https://docs.google.com/document/d/1o4EIgb5yekGwSvbXTNEVAbizQ3RIXwiglXWHh1NuTTo/
 Ссылка на видео-демонстрацию:
 
 https://disk.yandex.ru/i/mxUwRCPfxek8ug
+
+Ссылка на текстовый файл:
+
+https://docs.google.com/document/d/1ryhJnUK9FoaMtJmMJKEWXbUwq5JsFeWZYQ-nOQwlSQk/edit?usp=drive_link
