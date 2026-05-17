@@ -138,6 +138,8 @@ https://docs.google.com/document/d/1ryhJnUK9FoaMtJmMJKEWXbUwq5JsFeWZYQ-nOQwlSQk/
 
 Задание 2.1
 
+Коммит - task 2.1, файлы - sql/find_duplicate.sql, sql/drop_duplicate_v1.sql, sql/drop_duplicate_v2.sql
+
 Имеется витрина dm.client, в которой содержится различная информация по клиентам банка. Заказчик сообщил, что в таблице имеются дубли, которые нужно устранить.
 
 Необходимо подготовить запрос, по которому можно обнаружить все дубли в витрине и удалить их.
