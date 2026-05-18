@@ -86,8 +86,6 @@ def load_table(table_name, **context):
         date_columns = [col for col in df.columns if 'date' in col.lower()]
         for col in date_columns:
             df[col] = df[col].apply(parse_date)
-
-            #df[col] = pd.to_datetime(df[col], errors='coerce').dt.date
         
         rows_processed = len(df)
         
