@@ -181,3 +181,4 @@ https://docs.google.com/document/d/1XemRfEM7Y1nZnGQ-C7RCuwWM8jkT2AuhmWIvYdvSbT0/
 
 Ссылка на текстовый файл со скриншотами выполнения и пояснениями:
 
+https://docs.google.com/document/d/1toZu_6SFkaE-08NZquLTJk-csyEj1z5Mmepylu3a8tE/edit?usp=drive_link
